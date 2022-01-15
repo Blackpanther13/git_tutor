@@ -1,5 +1,6 @@
 def add(x,y):
 <<<<<<< HEAD
+# if x and y are integers
  if(type(x)==int and type(y)==int):
    return x+y
   return None
